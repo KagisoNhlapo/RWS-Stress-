@@ -1,0 +1,21 @@
+sampleID,birdID,Date,time,qual,cort
+1,RWS 01,2021/06/16,Pre-injection,,239.4
+2,RWS 02,2021/06/16,Pre-injection,,472.7
+3,RWS 03,2021/06/16,Pre-injection,hemolysed,268.4
+4,RWS 04,2021/06/17,Pre-injection,,203.9
+5,RWS 05,2021/06/17,Pre-injection,,105.3
+6,RWS 06,2021/06/17,Pre-injection,hemolysed,321
+7,RWS 07,2021/06/17,Pre-injection,,318.4
+8,RWS 08,2021/06/18,Pre-injection,,343.4
+9,RWS 09,2021/06/18,Pre-injection,,563.2
+10,RWS 10,2021/06/18,Pre-injection,hemolysed,2611
+11,RWS 01,2021/06/16,Post -injection,hemolysed,789.4
+12,RWS 02,2021/06/16,Post -injection,hemolysed,1011.1
+13,RWS 03,2021/06/16,Post -injection,hemolysed,1063.8
+14,RWS 04,2021/06/17,Post -injection,hemolysed,341.2
+15,RWS 05,2021/06/17,Post -injection,hemolysed,624.4
+16,RWS 06,2021/06/17,Post -injection,hemolysed,366.1
+17,RWS 07,2021/06/17,Post -injection,hemolysed,336.2
+18,RWS 08,2021/06/18,Post -injection,hemolysed,803
+19,RWS 09,2021/06/18,Post -injection,,1113
+20,RWS 10,2021/06/18,Post -injection,hemolysed,4393.8

@@ -386,7 +386,7 @@ sm+theme_classic()+ theme(
 
 #put them side by side
 #grid.arrange(ds, smf, ncol=2)
-ggarrange(ds, smf,labels = c("A)", "B)"), ncol=2)
+ggarrange(ds, sm,labels = c("A)", "B)"), ncol=2)
 
 #checking the relationship between foot traffic and day status. Unfortunately we have only 6 days in the end, luckily 3 of each...
 #data = "foottraf.csv"
